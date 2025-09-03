@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my Git Repository
 <br>
-Author-Nikita Kumari
+Author-Nikita Kumari pandey
